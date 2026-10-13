@@ -17,7 +17,7 @@ My work combines deep learning and signal processing with LLM-based systems for 
 | Project | Current focus |
 | --- | --- |
 | [CST MCP](https://github.com/GoncaGomes/cst-mcp) | Extending and validating an existing MCP server for CST Studio Suite. Current work focuses on parametric geometry, capability testing and reliable automation of engineering workflows. |
-| [RepoLens](https://github.com/GoncaGomes/RepoLens) | **Very early-stage learning project.** Initial development focuses on Python foundations, data modelling and Git history retrieval. Repository change analysis is the longer-term goal; broader analysis and AI capabilities are not yet implemented. |
+| [RepoLens](https://github.com/GoncaGomes/RepoLens) | **Very early-stage project.** Initial development focuses on Python foundations, data modelling and Git history retrieval. Repository change analysis is the longer-term goal; broader analysis and AI capabilities are not yet implemented. |
 
 ## Technical focus
 
